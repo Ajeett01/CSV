@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@json2csv/plainjs": "^7.0.6",
+    "@react-native-async-storage/async-storage": "^2.1.0",
+    "@react-navigation/stack": "^7.1.1",
     "react": "18.2.0",
     "react-csv": "^2.2.2",
     "react-native": "0.74.1",
